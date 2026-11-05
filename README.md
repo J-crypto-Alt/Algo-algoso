@@ -1,1 +1,2 @@
 # Algo-algoso
+print("Algososo");
